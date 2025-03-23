@@ -2,6 +2,10 @@
 
 A deep learning-based Glaucoma Detection System that classifies retinal images as Glaucoma or No Glaucoma using a Convolutional Neural Network (CNN). Built with PyTorch and deployed using Streamlit.
 
+## Dataset
+
+- You can download the dataset from here [Kaggle Dataset](https://www.kaggle.com/datasets/sabari50312/fundus-pytorch)
+
 ## 📌 Features
 
 - Upload an eye image for analysis 📤
