@@ -6,6 +6,10 @@ A deep learning-based Glaucoma Detection System that classifies retinal images a
 
 - You can download the dataset from here [Kaggle Dataset](https://www.kaggle.com/datasets/sabari50312/fundus-pytorch)
 
+## Models 🤖
+
+- You can download the models from here [HuggingFace Models](https://huggingface.co/KarthikNot/glaucoma-detection)
+
 ## 📌 Features
 
 - Upload an eye image for analysis 📤
